@@ -1,0 +1,23 @@
+{
+  "name": "node-react-sql-boilerplate-mysql",
+  "version": "1.0.0",
+  "description": "Full Stack boilerplate with express, typeorm and mysql with jwt stateless authentication with react frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udithv/node-react-sql-boilerplate-mysql.git"
+  },
+  "author": "Udith Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udithv/node-react-sql-boilerplate-mysql/issues"
+  },
+  "homepage": "https://github.com/udithv/node-react-sql-boilerplate-mysql#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
